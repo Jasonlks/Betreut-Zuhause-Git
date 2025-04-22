@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Excpetions
+comment0.text=\n\ Write\ a\ description\ of\ class\ Excpetions\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Excpetions()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Excpetions\n
+comment2.params=
+comment2.target=int\ NullPointerException()
+comment3.params=age
+comment3.target=int\ IllegalArgumentException(int)
+comment4.params=
+comment4.target=java.lang.String\ IllegalStateException()
+comment5.params=
+comment5.target=int\ ArrayIndexOutOfBounceException()
+comment6.params=
+comment6.target=int\ ArithmeticException()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=
+comment8.target=void\ sayHi()
+comment9.params=
+comment9.target=void\ OutOfMemoryError()
+numComments=10
