@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Ampel
+comment0.text=\n\ Write\ a\ description\ of\ class\ Ampel\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Ampel()
+comment1.text=\n\ Initialisiert\ eine\ neue\ Ampel\ auf\ die\ erste\ Phase\ (gr\u00FCn).\n
+comment2.params=
+comment2.target=boolean\ leuchtetRot()
+comment2.text=\n\ Gibt\ an,\ ob\ die\ rote\ Lampe\ leuchtet.\n
+comment3.params=
+comment3.target=boolean\ leuchtetGelb()
+comment3.text=\n\ Gibt\ an,\ ob\ die\ gelbe\ Lampe\ leuchtet.\n
+comment4.params=
+comment4.target=boolean\ leuchtetGruen()
+comment4.text=\n\ Gibt\ an,\ ob\ die\ gr\u00FCne\ Lampe\ leuchtet.\n
+comment5.params=
+comment5.target=void\ schalteWeiter()
+comment5.text=\n\ Schaltet\ die\ Ampel\ in\ die\ n\u00E4chste\ Phase\ (gr\u00FCn\ ->\ gelb\ ->\ rot\ ->\ rot/gelb\ ->\ gr\u00FCn).\n
+comment6.params=obj\ obj1
+comment6.target=boolean\ equals(java.lang.Object,\ java.lang.Object)
+comment7.params=ampel
+comment7.target=boolean\ lampenTest(Ampel)
+numComments=8

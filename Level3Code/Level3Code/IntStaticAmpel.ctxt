@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=IntStaticAmpel
+comment0.text=\n\ Write\ a\ description\ of\ class\ IntStaticAmpel\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=IntStaticAmpel()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ IntStaticAmpel\n
+comment2.params=
+comment2.target=boolean\ leuchtetRot()
+comment2.text=\n\ Gibt\ an,\ ob\ die\ rote\ Lampe\ leuchtet.\n
+comment3.params=
+comment3.target=boolean\ leuchtetGelb()
+comment3.text=\n\ Gibt\ an,\ ob\ die\ gelbe\ Lampe\ leuchtet.\n
+comment4.params=
+comment4.target=boolean\ leuchtetGruen()
+comment4.text=\n\ Gibt\ an,\ ob\ die\ gruene\ Lampe\ leuchtet.\n
+comment5.params=
+comment5.target=void\ schalteWeiter()
+comment6.params=ampel
+comment6.target=boolean\ lampenTest(IntStaticAmpel)
+numComments=7

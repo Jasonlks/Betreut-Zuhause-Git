@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=EmpelGUI
+comment0.text=\n\ Stellt\ eine\ Ampel\ grafisch\ dar\ und\ erm\u00F6glicht\ das\ Weiterschalten\ \n\ zur\ n\u00E4chsten\ Ampelphase\ per\ Knopfdruck.\n\ \ \ \n\ @author\ Axel\ Schmolitzky,\ Fredrik\ Winkler\n\ @version\ 2022\n
+comment1.params=
+comment1.target=EmpelGUI()
+comment1.text=\n\ Erzeugt\ eine\ neue\ Ampel\ und\ stellt\ diese\ anschliessend\ dar.\n
+comment2.params=stage
+comment2.target=javafx.scene.layout.TilePane\ initialisiere(javafx.stage.Stage)
+comment2.text=\n\ Initialisiert\ die\ Stage\ und\ liefert\ den\ TilePane,\ der\ die\n\ weiteren\ Nodes\ aufnimmt.\n
+comment3.params=root
+comment3.target=void\ initialisiereLampen(javafx.scene.layout.TilePane)
+comment3.text=\n\ Erzeugt\ fuer\ jede\ Lampe\ einen\ Button\ und\ traegt\ ihn\ die\ GUI\ ein.\n
+comment4.params=reihe
+comment4.target=javafx.scene.control.Button\ neueLampe(int)
+comment4.text=\n\ Erzeugt\ einen\ LampenButton.\n
+comment5.params=root
+comment5.target=void\ initialisiereWeiter(javafx.scene.layout.TilePane)
+comment5.text=\n\ Erzeugt\ den\ Weiter-Button\ und\ fuegt\ einen\ EventHandler\ hinzu,\n\ der\ die\ Ampel\ weiterschaltet,\ wenn\ der\ Button\ gedrueckt\ wird.\n
+comment6.params=
+comment6.target=void\ aktualisiereLampen()
+comment6.text=\n\ Setzt\ die\ Farben\ der\ Lampen-Buttons\ entsprechend\ der\ Phase\ der\ verwendeten\ Ampel.\n
+numComments=7

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Bmpel
+comment0.text=\n\ Eine\ Bmpel\ besteht\ aus\ drei\ Lampen\ in\ den\ Farben\ rot,\ gelb\ und\ gr\u00FCn.\n\ Sie\ durchl\u00E4uft\ periodisch\ vier\ Phasen\:\ gr\u00FCn,\ gelb,\ rot,\ rot/gelb.\n\ In\ den\ ersten\ drei\ Phasen\ leuchtet\ also\ nur\ jeweils\ eine\ Lampe,\n\ w\u00E4hrend\ in\ der\ vierten\ Phase\ zwei\ Lampen\ gleichzeitig\ leuchten.\n\ Der\ Zustand\ der\ einzelnen\ Lampen\ kann\ abgefragt\ werden,\n\ und\ die\ Ampel\ kann\ in\ die\ n\u00E4chste\ Phase\ geschaltet\ werden.\n\ Die\ Schaltung\ geschieht\ explizit\ durch\ einen\ Methodenaufruf\n\ (und\ nicht\ etwa\ durch\ einen\ automatischen\ Timer).\n\ \n\ @author\ Fredrik\ Winkler\n\ @version\ 2022\n
+comment1.params=
+comment1.target=Bmpel()
+comment1.text=\n\ Initialisiert\ eine\ neue\ Bmpel\ auf\ die\ erste\ Phase\ (gr\u00FCn).\n
+comment2.params=
+comment2.target=void\ schalteWeiter()
+comment2.text=\n\ Schaltet\ die\ Bmpel\ in\ die\ n\u00E4chste\ Phase\ (gruen\ (0)\ ->\ gelb\ (1)\ ->\ rot\ (2)->\ rot/gelb\ (3)\ ->\ gruen\ (0)).\n
+comment3.params=
+comment3.target=boolean\ leuchtetRot()
+comment3.text=\n\ Gibt\ an,\ ob\ die\ rote\ Lampe\ leuchtet.\n
+comment4.params=
+comment4.target=boolean\ leuchtetGelb()
+comment4.text=\n\ Gibt\ an,\ ob\ die\ gelbe\ Lampe\ leuchtet.\n
+comment5.params=
+comment5.target=boolean\ leuchtetGruen()
+comment5.text=\n\ Gibt\ an,\ ob\ die\ gr\u00FCne\ Lampe\ leuchtet.\n
+comment6.params=ampel
+comment6.target=boolean\ lampenTest(Bmpel)
+numComments=7

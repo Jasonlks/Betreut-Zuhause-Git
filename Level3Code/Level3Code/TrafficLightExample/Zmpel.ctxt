@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Zmpel
+comment0.text=\n\ Eine\ Zmpel\ besteht\ aus\ drei\ Lampen\ in\ den\ Farben\ rot,\ gelb\ und\ gr\u00FCn.\n\ Sie\ durchl\u00E4uft\ periodisch\ vier\ Phasen\:\ gr\u00FCn,\ gelb,\ rot,\ rot/gelb.\n\ In\ den\ ersten\ drei\ Phasen\ leuchtet\ also\ nur\ jeweils\ eine\ Lampe,\n\ w\u00E4hrend\ in\ der\ vierten\ Phase\ zwei\ Lampen\ gleichzeitig\ leuchten.\n\ Der\ Zustand\ der\ einzelnen\ Lampen\ kann\ abgefragt\ werden,\n\ und\ die\ Ampel\ kann\ in\ die\ n\u00E4chste\ Phase\ geschaltet\ werden.\n\ Die\ Schaltung\ geschieht\ explizit\ durch\ einen\ Methodenaufruf\n\ (und\ nicht\ etwa\ durch\ einen\ automatischen\ Timer).\n\ \n\ @author\ Fredrik\ Winkler\n\ @version\ 2022\n
+comment1.params=
+comment1.target=Zmpel()
+comment1.text=\n\ Initialisiert\ eine\ neue\ Zmpel\ auf\ die\ erste\ Phase\ (gruen).\n
+comment2.params=
+comment2.target=boolean\ leuchtetRot()
+comment2.text=\n\ Gibt\ an,\ ob\ die\ rote\ Lampe\ leuchtet.\n
+comment3.params=
+comment3.target=boolean\ leuchtetGelb()
+comment3.text=\n\ Gibt\ an,\ ob\ die\ gelbe\ Lampe\ leuchtet.\n
+comment4.params=
+comment4.target=boolean\ leuchtetGruen()
+comment4.text=\n\ Gibt\ an,\ ob\ die\ gruene\ Lampe\ leuchtet.\n
+comment5.params=
+comment5.target=void\ schalteWeiter()
+comment5.text=\n\ Schaltet\ die\ Zmpel\ in\ die\ naechste\ Phase\ (gruen\ ->\ gelb\ ->\ rot\ ->\ rot/gelb\ ->\ gruen).\n
+comment6.params=ampel
+comment6.target=boolean\ lampenTest(Zmpel)
+numComments=7

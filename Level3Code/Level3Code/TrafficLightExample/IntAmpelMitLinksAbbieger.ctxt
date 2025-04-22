@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=IntAmpelMitLinksAbbieger
+comment0.text=\n\ Write\ a\ description\ of\ class\ IntAmpelMitLinksAbbieger\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=IntAmpelMitLinksAbbieger()
+comment2.params=
+comment2.target=void\ leuchtetLinksRot()
+comment2.text=\n\ Gibt\ an,\ ob\ beim\ RechtsAbbiegen\ die\ rote\ Lampe\ leuchtet\n
+comment3.params=
+comment3.target=boolean\ leuchtetLinksGruen()
+comment3.text=\n\ Gibt\ an,\ ob\ die\ gruene\ Lampe\ leuchtet.\n
+comment4.params=
+comment4.target=void\ schalteWeiter()
+numComments=5

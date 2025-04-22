@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Level3Code1
+comment0.text=\n\ Write\ a\ description\ of\ class\ LevelCode1\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Level3Code1()
+comment2.params=
+comment2.target=java.lang.String\ getSuperString()
+comment3.params=
+comment3.target=java.lang.String\ hello()
+comment4.params=
+comment4.target=java.lang.String\ hi()
+comment5.params=
+comment5.target=void\ Zugriff\u00FCberKlassenname2()
+comment5.text=\n\ statischer\ Zugriff\ \u00FCber\ Klassenname\ von\ au\u00DFen\n
+numComments=6

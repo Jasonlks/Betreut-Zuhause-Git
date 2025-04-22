@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TrafficLightInterface
+comment0.text=\n\ Write\ a\ description\ of\ interface\ AmpelInterface\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=boolean\ leuchtetGruen()
+comment2.params=
+comment2.target=boolean\ leuchtetGelb()
+comment3.params=
+comment3.target=boolean\ leuchtetRot()
+comment4.params=
+comment4.target=void\ schalteWeiter()
+numComments=5
